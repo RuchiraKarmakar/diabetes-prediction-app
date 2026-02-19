@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction Web App
+ Diabetes Prediction Web App
 
 A Machine Learning based web application that predicts the risk of diabetes using patient health parameters.
 
@@ -12,9 +12,11 @@ A Machine Learning based web application that predicts the risk of diabetes usin
 - Model deployed on Streamlit Community Cloud
 
  Machine Learning
-- Algorithm Used: (Mention your model e.g., Random Forest / Logistic Regression)
+- Algorithm Used: Gaussian Naive Bayes
+- Model Selection: Compared multiple classifiers and selected the best performing model based on accuracy evaluation
 - Data Scaling: StandardScaler
 - Dataset: Pima Indians Diabetes Dataset
+
 
  Tech Stack
 - Python
